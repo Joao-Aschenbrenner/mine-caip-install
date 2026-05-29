@@ -1,6 +1,4 @@
-# Minecraft Caiporas Server
-
-**IP:** `says-ranch.gl.joinmc.link`
+# Caiporas Client Installer
 
 **Versão:** Minecraft 1.21.1 (Fabric)
 
@@ -8,10 +6,9 @@
 
 1. Baixe o **CaiporasInstaller.exe** desse repositório
 2. Execute o .exe
-3. Se o Fabric Loader não estiver instalado, o instalador vai baixar e pedir pra você instalar (selecione versão 1.21.1, clique em Install Client, volte e pressione ENTER)
+3. Se o Fabric Loader não estiver instalado, o instalador vai baixar e pedir pra instalar (selecione versão 1.21.1, clique em Install Client, volte e pressione ENTER)
 4. Ele baixa todos os mods automaticamente
-5. Abre o Minecraft Launcher, seleciona o perfil **Fabric** e conecta em:
-   **Multijogador > Adicionar Servidor > `says-ranch.gl.joinmc.link`**
+5. Abra o Minecraft Launcher, selecione o perfil **Fabric** e conecte no servidor
 
 ## Mods instalados
 

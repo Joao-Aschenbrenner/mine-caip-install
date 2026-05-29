@@ -138,10 +138,8 @@ public class CaiporasInstaller
 
         Console.WriteLine();
         Console.WriteLine("=== Instalacao concluida! ===");
-        Console.WriteLine("IP do servidor: says-ranch.gl.joinmc.link");
         Console.WriteLine();
-        Console.WriteLine("Abra o Minecraft Launcher, selecione o perfil Fabric e conecte em:");
-        Console.WriteLine("  Multijogador > Adicionar Servidor > says-ranch.gl.joinmc.link");
+        Console.WriteLine("Pergunte o IP do servidor para o admin.");
         Console.WriteLine();
         Console.WriteLine("Pressione ENTER para sair...");
         Console.ReadLine();
