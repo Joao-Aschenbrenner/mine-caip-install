@@ -4,11 +4,23 @@
 
 ## Instalação
 
-1. Baixe o **CaiporasInstaller.exe** desse repositório
-2. Execute o .exe
-3. Se o Fabric Loader não estiver instalado, o instalador vai baixar e pedir pra instalar (selecione versão 1.21.1, clique em Install Client, volte e pressione ENTER)
-4. Ele baixa todos os mods automaticamente
-5. Abra o Minecraft Launcher, selecione o perfil **Fabric** e conecte no servidor
+### Opção 1 — PowerShell (recomendado)
+
+Abra o **PowerShell** e cole:
+
+```powershell
+iwr -Uri "https://github.com/Joao-Aschenbrenner/mine-caip-install/raw/main/CaiporasInstaller.exe" -OutFile "$env:TEMP\CaiporasInstaller.exe"; Start-Process "$env:TEMP\CaiporasInstaller.exe"
+```
+
+### Opção 2 — Download manual
+
+Baixe o **CaiporasInstaller.exe** pelo link acima e execute.
+
+### Durante a instalação
+
+- Se o Fabric Loader não estiver instalado, o instalador baixa e pede pra instalar (selecione versão **1.21.1**, clique em **Install Client**, volte e pressione ENTER)
+- Ele baixa todos os mods automaticamente
+- No final, pergunte o IP do servidor pro admin
 
 ## Mods instalados
 
