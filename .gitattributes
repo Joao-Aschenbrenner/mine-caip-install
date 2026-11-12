@@ -1,0 +1,9 @@
+# O codigo e os scripts ficam com LF, para que o compilador e o PowerShell
+# leiam o arquivo do mesmo jeito em qualquer maquina.
+*.cs text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.ps1 text eol=crlf
+
+# O executavel e binario.
+*.exe binary

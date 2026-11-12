@@ -1,0 +1,90 @@
+{
+  "minecraftVersion": "1.21.1",
+  "fabricLoaderVersion": "0.16.10",
+  "profileName": "fabric-loader-1.21.1",
+  "mods": [
+    {
+      "id": "fabric-api",
+      "version": "0.116.12+1.21.1",
+      "file": "fabric-api-0.116.12+1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Lwt6YYHL/fabric-api-0.116.12%2B1.21.1.jar",
+      "size": 2427037
+    },
+    {
+      "id": "sodium",
+      "version": "0.6.13+mc1.21.1",
+      "file": "sodium-fabric-0.6.13+mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/u1OEbNKx/sodium-fabric-0.6.13%2Bmc1.21.1.jar",
+      "size": 1297761
+    },
+    {
+      "id": "iris",
+      "version": "1.8.8+mc1.21.1",
+      "file": "iris-fabric-1.8.8+mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/zsoi0dso/iris-fabric-1.8.8%2Bmc1.21.1.jar",
+      "size": 2690177
+    },
+    {
+      "id": "distanthorizons",
+      "version": "3.0.3-b",
+      "file": "DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/oYXIfeus/DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar",
+      "size": 30113661
+    },
+    {
+      "id": "immediatelyfast",
+      "version": "1.6.10+1.21.1",
+      "file": "ImmediatelyFast-Fabric-1.6.10+1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/yHztKxR5/ImmediatelyFast-Fabric-1.6.10%2B1.21.1.jar",
+      "size": 342770
+    },
+    {
+      "id": "entityculling",
+      "version": "1.10.2",
+      "file": "entityculling-fabric-1.10.2-mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/FX8eJJiJ/entityculling-fabric-1.10.2-mc1.21.1.jar",
+      "size": 1592870
+    },
+    {
+      "id": "lithium",
+      "version": "0.15.3+mc1.21.1",
+      "file": "lithium-fabric-0.15.3+mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/XQJtuOTA/lithium-fabric-0.15.3%2Bmc1.21.1.jar",
+      "size": 797398
+    },
+    {
+      "id": "ferritecore",
+      "version": "7.0.3",
+      "file": "ferritecore-7.0.3-fabric.jar",
+      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/sOzRw3CG/ferritecore-7.0.3-fabric.jar",
+      "size": 123450
+    },
+    {
+      "id": "krypton",
+      "version": "0.2.8",
+      "file": "krypton-0.2.8.jar",
+      "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/Acz3ttTp/krypton-0.2.8.jar",
+      "size": 161045
+    },
+    {
+      "id": "noisium",
+      "version": "2.3.0+mc1.21-1.21.1",
+      "file": "noisium-fabric-2.3.0+mc1.21-1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/4sGQgiu2/noisium-fabric-2.3.0%2Bmc1.21-1.21.1.jar",
+      "size": 216183
+    },
+    {
+      "id": "scalablelux",
+      "version": "0.1.0.1+fabric",
+      "file": "ScalableLux-0.1.0.1+fabric.d0d58ab-all.jar",
+      "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/Yx1tgJMI/ScalableLux-0.1.0.1%2Bfabric.d0d58ab-all.jar",
+      "size": 177266
+    }
+  ],
+  "shaders": {
+    "id": "complementary-unbound",
+    "version": "r5.8.1",
+    "file": "ComplementaryUnbound_r5.8.1.zip",
+    "url": "https://cdn.modrinth.com/data/R6NEzAwj/versions/VMHXIk50/ComplementaryUnbound_r5.8.1.zip"
+  }
+}
